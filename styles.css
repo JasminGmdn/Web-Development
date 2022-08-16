@@ -14,6 +14,26 @@
   h1{
     font-size: 28px;
   }
+  
+  .visual1{
+    margin:20px;
+  }
+  .visual2{
+    margin:20px;
+  }
+  .visual3{
+    margin:20px;
+  }
+  .visual4{
+    margin: 20px 90px;
+  }
+  .visual5{
+    margin: 20px 90px;
+  }
+  
+  .button{
+    padding: 5px 10px;
+  }
 }
 
   hr{
