@@ -9,6 +9,13 @@
       color: #ffdfff;
 }
 
+@media screen and (max-width: 768px){
+  
+  h1{
+    font-size: 28px;
+  }
+}
+
   hr{
 
     border-style: none;
